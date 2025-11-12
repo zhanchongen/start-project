@@ -4,7 +4,7 @@ int main()
 {
 
 
-
+	int a = 0;
 
 	cout << "Hello world" << endl;
 	return 0;
